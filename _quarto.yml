@@ -17,8 +17,3 @@ format:
 
 execute:
   freeze: true
-
-
-
-bibliography: references.bib
-csl: apa.csl
